@@ -5,9 +5,9 @@ El objetivo principal del proyecto és mejorar la experiencia de ususario para h
   
 ---
 ### Puntos a destacar 
-- Destacar skills con iconografia
+- Destacar skills con iconografia.
 - Uso de infografias para que los recruiters puedan visualizar rápidamente con que herrarientas se ha trabajado.
-- Plasmar la experiencia laboral en la misma página
+- Plasmar la experiencia laboral en la misma página.
 - Menu fixed top.
 - Hacer la página más dinamica con javascript.
 

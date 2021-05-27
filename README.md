@@ -1,7 +1,7 @@
 # Vue Portfolio wireframe
 ### Objetivo
     
-    El objetivo principal del proyecto és mejorar la experiencia de ususario para hacer destacar nuestro portfolio.
+El objetivo principal del proyecto és mejorar la experiencia de ususario para hacer destacar nuestro portfolio.
   
 ---
 ### Puntos a destacar 
